@@ -1,6 +1,5 @@
 # Plagiarism-Detection
 
-# Plagiarism Detection Project
 This project aims to detect any possible plagiarism in documents using Natural Language Processing (NLP) techniques and the BERT model. The BERT model is a state-of-the-art deep learning model that has shown promising results in various NLP tasks, including plagiarism detection.
 
 # Requirements
